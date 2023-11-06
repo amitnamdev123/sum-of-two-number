@@ -1,0 +1,5 @@
+def sub()
+a=23
+b=12
+c=a-b
+print(c)
